@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class LongestXSequence {
+public class Main {
     public static void main(String[] args) {
         String fileName = "input.txt"; // Имя файла для анализа
 
